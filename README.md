@@ -6,6 +6,8 @@
 3. Цикломатска вредност = 11  
     реш: бр. ребра - бр. јазли + 2  
     37 - 28 + 2 = 11  
+    
+![SI_lab2_CFG](https://github.com/jankuloskajana/SI_2023_lab2_182026/assets/101889143/68a30a18-1b9a-4868-9b86-77c0e277182b)
 
 ![SI_lab2_CFG](https://github.com/jankuloskajana/SI_2023_lab2_182026/assets/101889143/4db9de27-dd3c-4068-95c3-f75073fca518)  
 
